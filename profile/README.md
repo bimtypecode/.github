@@ -4,4 +4,4 @@ BIMTypeCode is type coding made simple. With an easy-to-understand coding struct
 
 BIMTypeCode has been prepared by the BIM grassroots in [BIM7AA](http://bim7aa.dk) in collaboration with our Danish engineering network and [BIM Stockholm](http://bimstockholm.se).
 
-The codes can be found here, or on the [BIMTypeCode](https://bimtypecode.github.io/da/index.html) website.
+The codes can be [found here in our GitHub-repo](https://github.com/bimtypecode/bimtypecode), or on the [BIMTypeCode](https://bimtypecode.github.io/da/index.html) website.
