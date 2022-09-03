@@ -1,4 +1,4 @@
-## Hello! 👋
+## Hello!
 
 BIMTypeCode is type coding made simple. With an easy-to-understand coding structure based on planning requirements, Danish building practice and experience from complex to simple BIM projects. The structure of *BIMTypeCode 2022* is a further development of the BIM7AA Typecode, which is based on the SfB system.
 
